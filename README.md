@@ -1,43 +1,48 @@
-# Python AI Chatbot
+# 🤖 Python AI Chatbot
 
-An AI-powered desktop chatbot built with Python and CustomTkinter, integrated with Google Gemini API.
+A modern desktop AI chatbot built using Python, CustomTkinter, and Google Gemini API.
 
-## Features
+## ✨ Features
 
-- Modern GUI using CustomTkinter
-- Chat history memory
-- New Chat button
-- Clear Chat button
-- Multithreading for smooth responses
-- Google Gemini AI integration
+- Interactive AI Chat
+- CustomTkinter GUI
+- Google Gemini API Integration
+- Chat History Support
+- Multithreading
+- Enter Key Support
+- Secure API key using .env
 
-## Technologies Used
+## 🛠 Technologies Used
 
 - Python
 - CustomTkinter
 - Google Gemini API
-- dotenv
-- threading
+- python-dotenv
+- Pillow
 
-## Installation
+## ⚙ Installation
 
 ```bash
+git clone https://github.com/Hari-Pamuri/PythonAICHATBOT.git
+cd PythonAICHATBOT
 pip install -r requirements.txt
-```
-
-## Run
-
-```bash
 python gui_chatbot.py
 ```
 
-## Requirements
+## 📦 Requirements
 
 - customtkinter
 - google-genai
 - python-dotenv
 - Pillow
 
-## Author
+## 👨‍💻 Author
 
 Hari Pamuri
+
+GitHub:
+https://github.com/Hari-Pamuri
+
+## ⭐ Support
+
+If you like this project, give it a star on GitHub.
