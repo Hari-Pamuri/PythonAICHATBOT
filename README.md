@@ -1,10 +1,10 @@
-# AI Chatbot
+# Python AI Chatbot
 
 An AI-powered desktop chatbot built with Python and CustomTkinter, integrated with Google Gemini API.
 
 ## Features
 
-- Modern GUI with CustomTkinter
+- Modern GUI using CustomTkinter
 - Chat history memory
 - New Chat button
 - Clear Chat button
@@ -22,7 +22,7 @@ An AI-powered desktop chatbot built with Python and CustomTkinter, integrated wi
 ## Installation
 
 ```bash
-pip install customtkinter google-genai python-dotenv
+pip install -r requirements.txt
 ```
 
 ## Run
@@ -30,6 +30,13 @@ pip install customtkinter google-genai python-dotenv
 ```bash
 python gui_chatbot.py
 ```
+
+## Requirements
+
+- customtkinter
+- google-genai
+- python-dotenv
+- Pillow
 
 ## Author
 
